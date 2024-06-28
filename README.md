@@ -1,3 +1,8 @@
-This data science project is step by step process of predecting the person is dibetic or not. We will first build a model train and test it. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, cross validation etc. Technology and tools wise this project covers,
+Project Objective
+This machine learning model is built for predicting whether patient is diabetic or not using vector support classifier.
 
-Python Numpy and Pandas for data cleaning Matplotlib for data visualization Sklearn for model building.
+Task
+1.Data preprocessing – Handled NA values.
+2.Data Standardization
+
+Library Used Python, Numpy and Pandas, support vector classifier, Sklearn for model building.
